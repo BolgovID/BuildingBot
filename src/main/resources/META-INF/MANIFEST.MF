@@ -1,0 +1,23 @@
+Manifest-Version: 1.0
+Class-Path: jackson-jaxrs-base-2.9.8.jar jersey-guava-2.25.1.jar teleg
+ rambots-4.1.2.jar hk2-locator-2.5.0-b32.jar javax.ws.rs-api-2.0.1.jar
+  osgi-resource-locator-1.0.1.jar error_prone_annotations-2.1.3.jar ja
+ ckson-module-jaxb-annotations-2.9.8.jar jersey-media-json-jackson-2.2
+ 5.1.jar grizzly-http-2.3.28.jar jersey-common-2.25.1.jar jackson-anno
+ tations-2.9.0.jar hk2-api-2.5.0-b32.jar poi-ooxml-schemas-3.12.jar ja
+ vax.inject-1.jar aopalliance-1.0.jar jersey-container-grizzly2-http-2
+ .25.1.jar gson-2.8.5.jar jsr305-3.0.2.jar validation-api-1.1.0.Final.
+ jar javassist-3.20.0-GA.jar json-20180813.jar poi-3.12.jar aopallianc
+ e-repackaged-2.5.0-b32.jar httpcore-4.4.6.jar checker-compat-qual-2.0
+ .0.jar guava-25.1-android.jar stax-api-1.0.1.jar javax.annotation-api
+ -1.2.jar httpclient-4.5.3.jar commons-io-2.5.jar j2objc-annotations-1
+ .1.jar hk2-utils-2.5.0-b32.jar httpmime-4.5.3.jar jackson-databind-2.
+ 9.8.jar telegrambots-meta-4.1.2.jar jersey-server-2.25.1.jar jersey-c
+ lient-2.25.1.jar poi-ooxml-3.12.jar jackson-core-2.9.8.jar guice-4.2.
+ 2.jar javax.inject-2.5.0-b32.jar jackson-jaxrs-json-provider-2.9.8.ja
+ r xmlbeans-2.6.0.jar grizzly-http-server-2.3.28.jar jersey-media-jaxb
+ -2.25.1.jar grizzly-framework-2.3.28.jar commons-logging-1.2.jar anim
+ al-sniffer-annotations-1.14.jar jersey-entity-filtering-2.25.1.jar co
+ mmons-codec-1.9.jar
+Main-Class: Bot
+
