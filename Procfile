@@ -1,1 +1,1 @@
-web: java -classpath . Bot
+worker: sh target/bin/Bot
