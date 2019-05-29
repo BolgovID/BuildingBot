@@ -1,1 +1,1 @@
-worker: sh target/bin/Bot
+worker: java Bot.class
